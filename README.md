@@ -3,6 +3,9 @@
 ## Objective
 The objective of this assignment is to design and implement a Vehicle Rental Management System using object-oriented principles. This system will allow you to practice inheritance, abstraction, and encapsulation while developing classes to represent various types of vehicles and a rental agency.
 
+### Video explanation
+https://www.youtube.com/watch?v=3_rYv6FEG8E
+
 ## Class Overview
 
 ### Vehicle Class (Vehicle.cs)
@@ -57,8 +60,3 @@ The objective of this assignment is to design and implement a Vehicle Rental Man
 
 ### Prerequisites
 - .NET SDK installed on your machine.
-
-### Installation
-1. Clone the repository.
-   ```sh
-   git clone https://github.com/yourusername/VehicleRentalManagementSystem.git
