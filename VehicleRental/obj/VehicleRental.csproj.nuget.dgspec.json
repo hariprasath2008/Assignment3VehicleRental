@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental\\VehicleRental.csproj": {}
+    "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental.csproj": {}
   },
   "projects": {
-    "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental\\VehicleRental.csproj": {
+    "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental\\VehicleRental.csproj",
+        "projectUniqueName": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental.csproj",
         "projectName": "VehicleRental",
-        "projectPath": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental\\VehicleRental.csproj",
+        "projectPath": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental.csproj",
         "packagesPath": "C:\\Users\\91948\\.nuget\\packages\\",
-        "outputPath": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\VehicleRental\\obj\\",
+        "outputPath": "E:\\Software Quality\\High Quality\\Assignments\\Assignment3\\Assignment3VehicleRental\\VehicleRental\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
